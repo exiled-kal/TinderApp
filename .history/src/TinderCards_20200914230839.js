@@ -7,7 +7,7 @@ function TinderCards() {
     {
       name: 'Elon Musk',
       url:
-        'https://newsabc.net/wp-content/uploads/2020/08/Elon-Musk-today-proposes-brain-chip-that-can-give-you.jpg',
+        "'https://newsabc.net/wp-content/uploads/2020/08/Elon-Musk-today-proposes-brain-chip-that-can-give-you.jpg'",
     },
     {
       name: 'Jeff  Bezos',

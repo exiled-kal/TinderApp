@@ -16,15 +16,6 @@ function TinderCards() {
     },
   ]);
 
-  const swiped = (direction, nameToDelete) => {
-    console.log('removing:' + nameToDelete);
-    // setLastDirection(direction);
-  };
-
-  const outOfFrame = (name) => {
-    console.log(name + 'left the screen!');
-  };
-
   return (
     <div className="tinderCards">
       <div className="tinderCards__cardContainer">
