@@ -1,0 +1,5 @@
+.tinderCards {
+  display: flex;
+  position: relative;
+  background-color: #fff;
+}
